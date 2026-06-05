@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <script>
+      (function () {
+        if (location.protocol === "file:") return;
+        var path = location.pathname;
+        var normalized;
+        if (path.endsWith("/")) {
+          normalized = path;
+        } else {
+          var last = path.slice(path.lastIndexOf("/") + 1);
+          if (last.indexOf(".") > -1) {
+            normalized = path.replace(/\/[^/]+$/, "/");
+          } else {
+            normalized = path + "/";
+          }
+        }
+        var b = document.createElement("base");
+        b.href = location.origin + normalized;
+        document.head.insertBefore(b, document.head.firstChild);
+      })();
+    </script>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="./logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Pensionar-T - Asesoría profesional de pensiones en México. Expertos en trámites de pensión para adultos mayores." />
+    <title>Pensionar-T - Asesoría de Pensiones</title>
+    <script type="module" crossorigin src="./assets/index-CJa2pQru.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-B6oLtTRO.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
