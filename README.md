@@ -122,12 +122,12 @@ npx serve .
 
 ## 👤 Autor
 
-**Alberto (Beto)**  
+**Humberto Alejandro Vargas Sanchez**  
 Estudiante de Ingeniería en Tecnologías Computacionales · UDEM  
 Freelance Frontend Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-tu--usuario-181717?style=flat&logo=github)](https://github.com/tu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tu--perfil-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/tu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-tu--usuario-181717?style=flat&logo=github)](https://github.com/Betito016)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tu--perfil-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/humberto-alejandro-vargas-s%C3%A1nchez-6aa07b20b/)
 
 ---
 
