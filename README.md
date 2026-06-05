@@ -12,7 +12,7 @@
 ## 🌐 Demo en vivo
 
 👉 **[Ver sitio desplegado](https://tu-usuario.github.io/pensionat-landing-page)**
-> *(Actualiza este enlace después de activar GitHub Pages)*
+
 
 ---
 
