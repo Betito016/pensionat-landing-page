@@ -11,7 +11,7 @@
 
 ## 🌐 Demo en vivo
 
-👉 **[Ver sitio desplegado](https://tu-usuario.github.io/pensionat-landing-page)**
+👉 **[Ver sitio desplegado](https://pensionart.mx/)**
 
 
 ---
