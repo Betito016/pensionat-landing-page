@@ -126,8 +126,8 @@ npx serve .
 Estudiante de Ingeniería en Tecnologías Computacionales · UDEM  
 Freelance Frontend Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-tu--usuario-181717?style=flat&logo=github)](https://github.com/Betito016)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tu--perfil-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/humberto-alejandro-vargas-s%C3%A1nchez-6aa07b20b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Humberto--Vargas-181717?style=flat&logo=github)](https://github.com/Betito016)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Humberto--Vargas-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/humberto-alejandro-vargas-s%C3%A1nchez-6aa07b20b/)
 
 ---
 
